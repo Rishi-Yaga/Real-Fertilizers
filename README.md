@@ -1,4 +1,4 @@
-$# 🌱 Real Fertilizers – Entrepreneurship & Product Development Project
+# 🌱 Real Fertilizers – Entrepreneurship & Product Development Project
 
 ## 📌 Overview
 This project focuses on building a sustainable fertilizer venture by applying entrepreneurial frameworks, economic value analysis, and structured product development strategies to address agricultural productivity challenges.
